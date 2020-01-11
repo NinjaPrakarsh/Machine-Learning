@@ -67,3 +67,4 @@ function out = output(partId)
     out = sprintf('%0.5f ', normalEqn(X2, Y2));
   end 
 end
+haha bacchi
